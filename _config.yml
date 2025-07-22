@@ -1,13 +1,5 @@
 # The Site Configuration
 
-$primary-color: #ff79c6;
-$accent-color: #bd93f9;
-$background-color: #1a1b26;
-$text-color: #f8f8f2;
-$link-color: #c792ea;
-
-@import "main";
-
 # Import the theme
 theme: jekyll-theme-chirpy
 
