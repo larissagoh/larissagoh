@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: blog
 icon: fas fa-tags
-order: 2
+order: 1
 ---
