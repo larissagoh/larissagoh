@@ -1,5 +1,5 @@
 ---
-title: Blogs
+title: Blog
 icon: list-ul
 order: 2
 ---
