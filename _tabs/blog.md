@@ -2,8 +2,8 @@
 title: Blog
 icon: list-ul
 order: 2
+layout: home
+pagination:
+  enabled: true
+  category: blog
 ---
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%Y-%m-%d" }}
-{% endfor %}
