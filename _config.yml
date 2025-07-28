@@ -227,3 +227,19 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+tabs:
+  - name: home
+    icon: home
+  - name: blog
+    icon: list-ul
+    path: blog
+  - name: tags
+    icon: tags
+  - name: categories
+    icon: folders
+  - name: archives
+    icon: archive
+  - name: about
+    icon: info
+
