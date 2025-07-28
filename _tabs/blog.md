@@ -5,5 +5,5 @@ order: 2
 layout: home
 pagination:
   enabled: true
-  category: blog
+  
 ---
